@@ -1,2 +1,2 @@
 # ansible-playground
-Ansible examples for learning and have some fun
+Ansible examples for learning and have some fun!
